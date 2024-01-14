@@ -1,5 +1,4 @@
 ### GoPear SMS Integration for WooCommerce
-============================================
 GoPear SMS Integration for WooCommerce is a wordpress plugin that helps you connect you Ghana GoPear SMS Account to your Woocommerce store. It helps you send SMS messages to your clients after they order products on your website.
 
 #### Setting up
